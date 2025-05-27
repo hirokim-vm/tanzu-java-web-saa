@@ -2,7 +2,7 @@ name: Spring App Advisor Workflow
 
 on:
   schedule:
-  - cron: "45 20 27 5 2"
+  - cron: "15 21 * * 1-5"
   push:
     branches: [ "main" ]
 
