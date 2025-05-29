@@ -35,3 +35,4 @@ build/
 ### Spring Application Advisor
 .advisor
 advisor-linux.tar
+advisor
